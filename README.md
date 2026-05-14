@@ -1,5 +1,8 @@
 # 🛠️ Dev & Design Toolbox
 
+> [!IMPORTANT]
+> **🚧 Repositorio en Construcción:** Este recopilatorio se encuentra actualmente en fase de desarrollo. Estoy añadiendo nuevas herramientas y refinando la estructura de forma constante.
+
 ¡Bienvenido a mi colección personal de recursos! Aquí almaceno una lista curada de páginas, galerías de inspiración y herramientas que me ayudan en mi día a día con el desarrollo y diseño de software.
 
 ## 🗂️ Directorio de Recursos
@@ -9,12 +12,16 @@
 | **🎨 Web Design** | Curated Design | [curated.design](http://curated.design) |
 | **🚀 Landing Pages** | Landing Love | [landing.love](http://landing.love) |
 | **💼 SaaS Websites** | SaaSpo | [saaspo.com](http://saaspo.com) |
+| **🌈 Color Palette** | Adobe Express | [adobe.com](https://www.adobe.com/express/colors/palette-generator) |
+| **🎨 Palette Gen** | Coolors | [coolors.co](https://coolors.co/) |
 | **🧭 Navbar** | Navbar Gallery | [navbar.gallery](http://navbar.gallery) |
 | **🖱️ CTA Sections** | CTA Gallery | [cta.gallery](http://cta.gallery) |
+| **🖥️ Web Components**| Webframe | [webframe.xyz](https://webframe.xyz/) |
 | **✨ Animation** | App Motion Design | [appmotion.design](http://appmotion.design) |
 | **📱 Mobile Apps** | Mobbin | [mobbin.com](http://mobbin.com) |
 | **🔖 Brands** | Rebrand Gallery | [rebrand.gallery](http://rebrand.gallery) |
 | **🎭 Icons** | Huge Icons | [hugeicons.com](http://hugeicons.com) |
+| **✍️ Flexible Icons**| Phosphor Icons | [phosphoricons.com](https://phosphoricons.com/) |
 | **🧩 Design Systems**| Component Gallery | [component.gallery](http://component.gallery) |
 
 ---
