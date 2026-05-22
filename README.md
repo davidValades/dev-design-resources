@@ -23,6 +23,7 @@
 | **🎭 Icons** | Huge Icons | [hugeicons.com](http://hugeicons.com) |
 | **✍️ Flexible Icons**| Phosphor Icons | [phosphoricons.com](https://phosphoricons.com/) |
 | **🧩 Design Systems**| Component Gallery | [component.gallery](http://component.gallery) |
+| **📊 Charts** | Rosencharts | [rosencharts.com](https://rosencharts.com) |
 
 ---
 
@@ -30,7 +31,3 @@
 Simplemente haz clic en el enlace de la categoría que necesites explorar. ¡Espero que estas herramientas te sirvan de tanta inspiración como a mí!
 
 > **Nota:** Esta lista está viva y en constante actualización a medida que descubro nuevas herramientas.
-
----
-
-_⭐ [David Valadés Navarro](https://github.com/davidValades)_
