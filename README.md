@@ -24,6 +24,7 @@
 | **✍️ Flexible Icons**| Phosphor Icons | [phosphoricons.com](https://phosphoricons.com/) |
 | **🧩 Design Systems**| Component Gallery | [component.gallery](http://component.gallery) |
 | **📊 Charts** | Rosencharts | [rosencharts.com](https://rosencharts.com) |
+| **📐 Diagrams** | Diagrams.net | [app.diagrams.net](https://app.diagrams.net/) |
 
 ---
 
