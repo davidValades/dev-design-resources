@@ -1,7 +1,7 @@
 # 🛠️ Dev & Design Toolbox
 
 > [!IMPORTANT]
-&gt; **🚧 Repositorio en Construcción:** Este recopilatorio se encuentra actualmente en fase de desarrollo. Estoy añadiendo nuevas herramientas y refinando la estructura de forma constante.
+**🚧 Repositorio en Construcción:** Este recopilatorio se encuentra actualmente en fase de desarrollo. Estoy añadiendo nuevas herramientas y refinando la estructura de forma constante.
 
 Colección de recursos para desarrollo frontend, backend, diseño UI/UX y productividad. Organizado por área de trabajo para encontrar rápidamente lo que necesitas.
 
