@@ -17,7 +17,7 @@
 | **🧭 Navbar** | Navbar Gallery | [navbar.gallery](http://navbar.gallery) |
 | **🖱️ CTA Sections** | CTA Gallery | [cta.gallery](http://cta.gallery) |
 | **🖥️ Web Components**| Webframe | [webframe.xyz](https://webframe.xyz/) |
-| **✨ Animation** | App Motion Design | [appmotion.design](http://appmotion.design) |
+| **✨ Animation** | App Motion Design | [appmotion.design]([http://appmotion.design](https://www.usemotion.com/)) |
 | **📱 Mobile Apps** | Mobbin | [mobbin.com](http://mobbin.com) |
 | **🔖 Brands** | Rebrand Gallery | [rebrand.gallery](http://rebrand.gallery) |
 | **🎭 Icons** | Huge Icons | [hugeicons.com](http://hugeicons.com) |
