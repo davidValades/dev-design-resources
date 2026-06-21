@@ -1,13 +1,30 @@
 # 🛠️ Dev & Design Toolbox
 
 > [!IMPORTANT]
-**🚧 Repositorio en Construcción:** Este recopilatorio se encuentra actualmente en fase de desarrollo. Estoy añadiendo nuevas herramientas y refinando la estructura de forma constante.
+> **🚧 Repositorio en Construcción:** Este recopilatorio se encuentra actualmente en fase de desarrollo. Estoy añadiendo nuevas herramientas y refinando la estructura de forma constante.
 
-Colección de recursos para desarrollo frontend, backend, diseño UI/UX y productividad. Organizado por área de trabajo para encontrar rápidamente lo que necesitas.
+Colección de recursos para desarrollo frontend, backend, diseño UI/UX, documentación, inteligencia artificial y productividad. Organizado por área de trabajo para encontrar rápidamente lo que necesitas.
+
+---
+
+## 📚 Índice
+
+- [🎨 Diseño & Inspiración UI/UX](#-diseño--inspiración-uiux)
+- [🧱 Componentes, UI Kits & Sistemas de Diseño](#-componentes-ui-kits--sistemas-de-diseño)
+- [🎨 Color, Tipografía & Assets Visuales](#-color-tipografía--assets-visuales)
+- [📚 Aprendizaje & Referencias Técnicas](#-aprendizaje--referencias-técnicas)
+- [⚡ Frontend & Desarrollo Web](#-frontend--desarrollo-web)
+- [📊 Diagramas, Charts & Documentación](#-diagramas-charts--documentación)
+- [🔧 Backend, APIs & Bases de Datos](#-backend-apis--bases-de-datos)
+- [🧪 Testing, Calidad & Performance](#-testing-calidad--performance)
+- [🚀 Deploy, Hosting & DevOps](#-deploy-hosting--devops)
+- [🤖 IA & Productividad](#-ia--productividad)
+- [📝 Notas & Colaboración](#-notas--colaboración)
 
 ---
 
 ## 🎨 Diseño & Inspiración UI/UX
+
 Recursos para buscar referencias visuales, tendencias y componentes de interfaces reales.
 
 | Recurso | Descripción | Enlace |
@@ -25,6 +42,7 @@ Recursos para buscar referencias visuales, tendencias y componentes de interface
 ---
 
 ## 🧱 Componentes, UI Kits & Sistemas de Diseño
+
 Herramientas para construir interfaces consistentes sin reinventar la rueda.
 
 | Recurso | Descripción | Enlace |
@@ -39,6 +57,7 @@ Herramientas para construir interfaces consistentes sin reinventar la rueda.
 ---
 
 ## 🎨 Color, Tipografía & Assets Visuales
+
 Generadores de paletas, iconos, fuentes y recursos gráficos.
 
 | Recurso | Descripción | Enlace |
@@ -58,24 +77,37 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 
 ---
 
+## 📚 Aprendizaje & Referencias Técnicas
+
+Recursos para aprender conceptos de desarrollo de forma visual, práctica o más divertida.
+
+| Recurso | Descripción | Enlace |
+|:---|:---|:---|
+| **HTTP Memes** | Aprende códigos de estado HTTP con memes; permite consultar imágenes por código como `404.jpg` o `500.jpg` | [github.com/keijeizei/httpmemes](https://github.com/keijeizei/httpmemes) |
+| **MDN Web Docs** | Documentación oficial de tecnologías web | [developer.mozilla.org](https://developer.mozilla.org) |
+| **Can I Use** | Compatibilidad de features de HTML, CSS y JavaScript por navegador | [caniuse.com](https://caniuse.com) |
+
+---
+
 ## ⚡ Frontend & Desarrollo Web
+
 Herramientas directamente relacionadas con el código, frameworks y recursos de desarrollo.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **Tailwind CSS** | Framework CSS utility-first | [tailwindcss.com](https://tailwindcss.com) |
-| **Can I Use** | Compatibilidad de features de HTML/CSS/JS por navegador | [caniuse.com](https://caniuse.com) |
-| **MDN Web Docs** | Documentación oficial de tecnologías web | [developer.mozilla.org](https://developer.mozilla.org) |
-| **Transform.tools** | Conversor de código (JSON a TS, CSS a Tailwind, etc.) | [transform.tools](https://transform.tools) |
+| **Transform.tools** | Conversor de código: JSON a TS, CSS a Tailwind, SVG a JSX y más | [transform.tools](https://transform.tools) |
 | **Regex101** | Tester y explicador de expresiones regulares | [regex101.com](https://regex101.com) |
 | **Bundlephobia** | Análisis de tamaño de paquetes npm | [bundlephobia.com](https://bundlephobia.com) |
 | **Carbon / Ray.so** | Genera screenshots bonitos de tu código | [carbon.now.sh](https://carbon.now.sh) / [ray.so](https://ray.so) |
 | **PageSpeed Insights** | Análisis de rendimiento web de Google | [pagespeed.web.dev](https://pagespeed.web.dev) |
 | **Responsively** | Testeo responsive en múltiples viewports a la vez | [responsively.app](https://responsively.app) |
+| **Blossom Carousel** | Librería de carruseles basada en scroll nativo, con drag, scroll-snap y scroll-driven animations | [blossom-carousel.com](https://www.blossom-carousel.com) |
 
 ---
 
 ## 📊 Diagramas, Charts & Documentación
+
 Visualización de datos, diagramas de arquitectura y documentación técnica.
 
 | Recurso | Descripción | Enlace |
@@ -89,13 +121,14 @@ Visualización de datos, diagramas de arquitectura y documentación técnica.
 ---
 
 ## 🔧 Backend, APIs & Bases de Datos
+
 Recursos para construir y probar servidores, APIs y gestionar datos.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **Postman** | Plataforma para construir y testear APIs | [postman.com](https://postman.com) |
 | **Hoppscotch** | Alternativa ligera y open source a Postman | [hoppscotch.io](https://hoppscotch.io) |
-| **Supabase** | Backend-as-a-Service open source (PostgreSQL + Auth + Storage) | [supabase.com](https://supabase.com) |
+| **Supabase** | Backend-as-a-Service open source: PostgreSQL, Auth y Storage | [supabase.com](https://supabase.com) |
 | **Firebase** | Backend-as-a-Service de Google | [firebase.google.com](https://firebase.google.com) |
 | **PocketBase** | Backend ligero todo-en-uno para proyectos pequeños | [pocketbase.io](https://pocketbase.io) |
 | **Neon** | PostgreSQL serverless con branching de bases de datos | [neon.tech](https://neon.tech) |
@@ -105,19 +138,21 @@ Recursos para construir y probar servidores, APIs y gestionar datos.
 ---
 
 ## 🧪 Testing, Calidad & Performance
-Garantiza que tu código funciona correctamente y carga rápido.
+
+Garantiza que tu código funciona correctamente, es seguro y carga rápido.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **Playwright** | Testing end-to-end automatizado de Microsoft | [playwright.dev](https://playwright.dev) |
 | **Vitest** | Test runner ultrarrápido para proyectos Vite | [vitest.dev](https://vitest.dev) |
-| **Lighthouse** | Auditoría de performance, accesibilidad y SEO (Chrome DevTools) | Incluido en Chrome |
+| **Lighthouse** | Auditoría de performance, accesibilidad y SEO | Incluido en Chrome |
 | **WebPageTest** | Análisis detallado de carga web desde múltiples ubicaciones | [webpagetest.org](https://webpagetest.org) |
 | **Snyk** | Seguridad y detección de vulnerabilidades en dependencias | [snyk.io](https://snyk.io) |
 
 ---
 
 ## 🚀 Deploy, Hosting & DevOps
+
 Lleva tu proyecto a producción.
 
 | Recurso | Descripción | Enlace |
@@ -132,20 +167,23 @@ Lleva tu proyecto a producción.
 ---
 
 ## 🤖 IA & Productividad
+
 Herramientas que aceleran el desarrollo con inteligencia artificial.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
-| **v0.dev** | Generador de componentes UI con IA (Vercel) | [v0.dev](https://v0.dev) |
+| **v0.dev** | Generador de componentes UI con IA de Vercel | [v0.dev](https://v0.dev) |
 | **GitHub Copilot** | Autocompletado de código con IA | [github.com/features/copilot](https://github.com/features/copilot) |
-| **Cursor** | Editor de código con IA integrada (fork de VS Code) | [cursor.com](https://cursor.com) |
+| **Cursor** | Editor de código con IA integrada basado en VS Code | [cursor.com](https://cursor.com) |
 | **Bolt.new** | Genera apps fullstack completas desde prompts | [bolt.new](https://bolt.new) |
 | **Claude Code** | Agente de coding de Anthropic para tareas complejas | [claude.ai/code](https://claude.ai/code) |
 | **Perplexity** | Motor de búsqueda con IA para investigación técnica | [perplexity.ai](https://perplexity.ai) |
+| **CodeRabbit** | Revisor de Pull Requests con IA que detecta bugs, vulnerabilidades y propone mejoras | [coderabbit.ai](https://coderabbit.ai) |
 
 ---
 
 ## 📝 Notas & Colaboración
+
 Organización y trabajo en equipo.
 
 | Recurso | Descripción | Enlace |
@@ -157,4 +195,4 @@ Organización y trabajo en equipo.
 
 ---
 
-&gt; **Nota:** Esta lista está viva y en constante actualización a medida que descubro nuevas herramientas.
+> **Nota:** Esta lista está viva y en constante actualización a medida que descubro nuevas herramientas.
