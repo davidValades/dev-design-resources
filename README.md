@@ -74,6 +74,7 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 | **LottieFiles** | Animaciones JSON ligeras para web y móvil | [lottiefiles.com](https://lottiefiles.com) |
 | **Unsplash** | Fotografía gratuita de alta calidad | [unsplash.com](https://unsplash.com) |
 | **Pexels** | Videos e imágenes stock gratuitos | [pexels.com](https://pexels.com) |
+| **Librerías de ilustraciones** | Lista de 7 librerías de ilustraciones para diseñadores (undraw, storyset, opendoodles, iradesign, illlustrations.co, 3d.khagwal, fresh-folk) | [x.com/noahelhadedy](https://x.com/noahelhadedy/status/2110036176908497159) |
 
 ---
 
@@ -179,6 +180,7 @@ Herramientas que aceleran el desarrollo con inteligencia artificial.
 | **Claude Code** | Agente de coding de Anthropic para tareas complejas | [claude.ai/code](https://claude.ai/code) |
 | **Perplexity** | Motor de búsqueda con IA para investigación técnica | [perplexity.ai](https://perplexity.ai) |
 | **CodeRabbit** | Revisor de Pull Requests con IA que detecta bugs, vulnerabilidades y propone mejoras | [coderabbit.ai](https://coderabbit.ai) |
+| **Repos de IA para Game Dev** | Hilo con 15 repos de GitHub que conectan Claude Code con Unreal, Unity y Godot | [x.com/Mnilax](https://x.com/mnilax/status/2110039818524660135) |
 
 ---
 
