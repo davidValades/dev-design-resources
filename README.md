@@ -156,7 +156,7 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
-| **Adobe Express Palette** | Generador de paletas con IA de Adobe | [adobe.com/express/colors](https://www.adobe.com/express/colors/palette-generator) |
+| **Adobe Express Palette** | Generador de paletas con IA de Adobe | [adobe.com/express/feature/design/color-palette](https://www.adobe.com/express/feature/design/color-palette) |
 | **Coolors** | Generador de paletas de colores | [coolors.co](https://coolors.co) |
 
 ### Tipografía
