@@ -12,11 +12,11 @@ Colección de recursos para desarrollo frontend, backend, diseño UI/UX, documen
 - [📚 Aprendizaje y referencias](#-aprendizaje-y-referencias)
 - [🔧 Backend, APIs y bases de datos](#-backend-apis-y-bases-de-datos)
 - [🧩 Frontend, componentes y sistemas de diseño](#-frontend-componentes-y-sistemas-de-diseño)
-- [🛠️ Herramientas de desarrollo](#-herramientas-de-desarrollo)
+- [🧰 Herramientas de desarrollo](#-herramientas-de-desarrollo)
 - [🧪 Pruebas, seguridad y rendimiento](#-pruebas-seguridad-y-rendimiento)
 - [🚀 Despliegue, hosting y DevOps](#-despliegue-hosting-y-devops)
 - [🎨 Diseño: inspiración y prototipado](#-diseño-inspiración-y-prototipado)
-- [🖼️ Recursos visuales](#-recursos-visuales)
+- [🌈 Recursos visuales](#-recursos-visuales)
 - [📊 Diagramas y documentación](#-diagramas-y-documentación)
 - [🤖 IA para desarrollo](#-ia-para-desarrollo)
 - [🎮 Videojuegos e IA](#-videojuegos-e-ia)
@@ -80,7 +80,7 @@ Herramientas para construir interfaces consistentes sin reinventar la rueda.
 
 ---
 
-## 🛠️ Herramientas de desarrollo
+## 🧰 Herramientas de desarrollo
 
 Utilidades del día a día para transformar, depurar y presentar código.
 
@@ -148,7 +148,7 @@ Referencias visuales, tendencias y herramientas para prototipar interfaces.
 
 ---
 
-## 🖼️ Recursos visuales
+## 🌈 Recursos visuales
 
 Generadores de paletas, iconos, fuentes y recursos gráficos.
 
