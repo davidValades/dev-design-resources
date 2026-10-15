@@ -73,6 +73,7 @@ Herramientas para construir interfaces consistentes sin reinventar la rueda.
 | **Blossom Carousel** | Librería de carruseles basada en scroll nativo, con drag, scroll-snap y scroll-driven animations | [blossom-carousel.com](https://www.blossom-carousel.com) |
 | **Component Gallery** | Colección de sistemas de diseño open source | [component.gallery](https://component.gallery) |
 | **Radix UI** | Primitives accesibles sin estilos de opinión | [radix-ui.com](https://radix-ui.com) |
+| **React Bits** | Componentes animados y fondos para React, copiables o instalables como código fuente en JavaScript o TypeScript, con CSS o Tailwind | [reactbits.dev](https://reactbits.dev/) |
 | **shadcn/ui** | Componentes accesibles y customizables para React | [ui.shadcn.com](https://ui.shadcn.com) |
 | **Storybook** | Documentación y testing visual de componentes | [storybook.js.org](https://storybook.js.org) |
 | **Tailwind CSS** | Framework CSS utility-first | [tailwindcss.com](https://tailwindcss.com) |
