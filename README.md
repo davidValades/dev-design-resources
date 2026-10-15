@@ -70,8 +70,11 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 | **Huge Icons** | Set de iconos premium para interfaces | [hugeicons.com](https://hugeicons.com) |
 | **Heroicons** | Iconos SVG diseñados por los creadores de Tailwind | [heroicons.com](https://heroicons.com) |
 | **Lucide** | Iconos modernos y limpios | [lucide.dev](https://lucide.dev) |
+| **Lordicon** | Biblioteca de iconos animados personalizables para web y móvil | [lordicon.com](https://lordicon.com/) |
+| **Lucide Animated** | Iconos animados para React, basados en Lucide y Motion | [lucide-animated.com](https://lucide-animated.com/) |
 | **SVG Loaders (MageCDN)** | Spinners y loaders animados en SVG | [magecdn.com/tools/svg-loaders](https://magecdn.com/tools/svg-loaders) |
 | **LottieFiles** | Animaciones JSON ligeras para web y móvil | [lottiefiles.com](https://lottiefiles.com) |
+| **LottieFiles Icon Animations** | Colección de iconos animados gratuitos en formatos Lottie, dotLottie, GIF, SVG animado y MP4 | [lottiefiles.com/free-animations/icon](https://lottiefiles.com/free-animations/icon) |
 | **Unsplash** | Fotografía gratuita de alta calidad | [unsplash.com](https://unsplash.com) |
 | **Pexels** | Videos e imágenes stock gratuitos | [pexels.com](https://pexels.com) |
 | **unDraw** | Ilustraciones SVG gratuitas y personalizables por color | [undraw.co](https://undraw.co) |
