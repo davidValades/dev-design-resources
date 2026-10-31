@@ -30,6 +30,7 @@ Recursos para aprender conceptos de desarrollo de forma visual, práctica o más
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **Can I Use** | Compatibilidad de features de HTML, CSS y JavaScript por navegador | [caniuse.com](https://caniuse.com) |
+| **DevOps Core Course** | Curso gratuito de DevOps basado en labs: un mismo servicio crece semana a semana con Docker, CI/CD, Terraform, Kubernetes, Helm, Argo CD, Prometheus y Grafana | [github.com/inno-devops-labs/DevOps-Core-Course](https://github.com/inno-devops-labs/DevOps-Core-Course) |
 | **HTTP Memes** | Aprende códigos de estado HTTP con memes; permite consultar imágenes por código como `404.jpg` o `500.jpg` | [github.com/keijeizei/httpmemes](https://github.com/keijeizei/httpmemes) |
 | **MDN Web Docs** | Documentación oficial de tecnologías web | [developer.mozilla.org](https://developer.mozilla.org) |
 
