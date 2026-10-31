@@ -226,11 +226,18 @@ Herramientas que aceleran el desarrollo con inteligencia artificial.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
+| **autoresearch** | Agente que investiga por su cuenta: edita el código de entrenamiento, entrena 5 minutos y conserva lo que mejora (Karpathy) | [github.com/karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
 | **Bolt.new** | Genera apps fullstack completas desde prompts | [bolt.new](https://bolt.new) |
 | **Claude Code** | Agente de coding de Anthropic para tareas complejas | [claude.ai/code](https://claude.ai/code) |
 | **CodeRabbit** | Revisor de Pull Requests con IA que detecta bugs, vulnerabilidades y propone mejoras | [coderabbit.ai](https://coderabbit.ai) |
 | **Cursor** | Editor de código con IA integrada basado en VS Code | [cursor.com](https://cursor.com) |
 | **GitHub Copilot** | Autocompletado de código con IA | [github.com/features/copilot](https://github.com/features/copilot) |
+| **llm.c** | Entrenamiento de GPT en C y CUDA puros, sin PyTorch debajo (Karpathy) | [github.com/karpathy/llm.c](https://github.com/karpathy/llm.c) |
+| **micrograd** | Cómo aprenden de verdad las redes neuronales: backpropagation en unas 100 líneas de Python (Karpathy) | [github.com/karpathy/micrograd](https://github.com/karpathy/micrograd) |
+| **minbpe** | Cómo el texto se convierte en tokens: el tokenizador con el que empieza todo LLM, en código limpio (Karpathy) | [github.com/karpathy/minbpe](https://github.com/karpathy/minbpe) |
+| **nanochat** | Modelo de chat completo de extremo a extremo por unos 48 $ (Karpathy) | [github.com/karpathy/nanochat](https://github.com/karpathy/nanochat) |
+| **nanoGPT** | El repositorio más simple para entrenar y ajustar tu propio GPT (Karpathy) | [github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) |
+| **nn-zero-to-hero** | Curso en vídeo con los cuadernos de sus charlas: de una neurona a GPT (Karpathy) | [github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) |
 | **Perplexity** | Motor de búsqueda con IA para investigación técnica | [perplexity.ai](https://perplexity.ai) |
 | **v0.dev** | Generador de componentes UI con IA de Vercel | [v0.dev](https://v0.dev) |
 
