@@ -30,9 +30,15 @@ Recursos para aprender conceptos de desarrollo de forma visual, práctica o más
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **Can I Use** | Compatibilidad de features de HTML, CSS y JavaScript por navegador | [caniuse.com](https://caniuse.com) |
+| **Codewars** | Ejercicios de programación (katas) por niveles en decenas de lenguajes | [codewars.com](https://www.codewars.com) |
 | **DevOps Core Course** | Curso gratuito de DevOps basado en labs: un mismo servicio crece semana a semana con Docker, CI/CD, Terraform, Kubernetes, Helm, Argo CD, Prometheus y Grafana | [github.com/inno-devops-labs/DevOps-Core-Course](https://github.com/inno-devops-labs/DevOps-Core-Course) |
+| **Exercism** | Ejercicios gratuitos por lenguaje con tracks guiados y mentoría | [exercism.org](https://exercism.org) |
+| **Frontend Mentor** | Retos de diseño frontend con proyectos reales para practicar HTML, CSS y JavaScript | [frontendmentor.io](https://www.frontendmentor.io) |
+| **Full Stack Open** | Curso gratuito de desarrollo web moderno: React, Node.js, GraphQL y TypeScript | [fullstackopen.com](https://fullstackopen.com) |
 | **HTTP Memes** | Aprende códigos de estado HTTP con memes; permite consultar imágenes por código como `404.jpg` o `500.jpg` | [github.com/keijeizei/httpmemes](https://github.com/keijeizei/httpmemes) |
+| **LeetCode** | Problemas de algoritmos y estructuras de datos orientados a entrevistas técnicas | [leetcode.com](https://leetcode.com) |
 | **MDN Web Docs** | Documentación oficial de tecnologías web | [developer.mozilla.org](https://developer.mozilla.org) |
+| **The Odin Project** | Ruta gratuita full-stack basada en proyectos, de fundamentos web a JavaScript y Node | [theodinproject.com](https://www.theodinproject.com) |
 
 ---
 
