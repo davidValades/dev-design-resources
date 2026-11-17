@@ -39,6 +39,7 @@ Recursos para aprender conceptos de desarrollo de forma visual, práctica o más
 | **LeetCode** | Problemas de algoritmos y estructuras de datos orientados a entrevistas técnicas | [leetcode.com](https://leetcode.com) |
 | **MDN Web Docs** | Documentación oficial de tecnologías web | [developer.mozilla.org](https://developer.mozilla.org) |
 | **The Odin Project** | Ruta gratuita full-stack basada en proyectos, de fundamentos web a JavaScript y Node | [theodinproject.com](https://www.theodinproject.com) |
+| **The Software Engineering Handbook** | Manual gratuito de ingeniería de software para la era de la IA (James C. Davis, 2026): definición de requisitos, arquitectura, evidencia de tests y corrección de modelos | [davisjam.github.io](https://davisjam.github.io/model-based-agentic-software-engineering/book/se-handbook/software-engineering-handbook.pdf) |
 
 ---
 
