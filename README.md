@@ -247,6 +247,7 @@ Herramientas que aceleran el desarrollo con inteligencia artificial.
 | **nanoGPT** | El repositorio más simple para entrenar y ajustar tu propio GPT (Karpathy) | [github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) |
 | **nn-zero-to-hero** | Curso en vídeo con los cuadernos de sus charlas: de una neurona a GPT (Karpathy) | [github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) |
 | **Perplexity** | Motor de búsqueda con IA para investigación técnica | [perplexity.ai](https://perplexity.ai) |
+| **SkillEvaluator** | Evalúa la calidad, la seguridad y el impacto real de las skills y plugins de agentes, con y sin la skill (NVIDIA) | [github.com/NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) |
 | **v0.dev** | Generador de componentes UI con IA de Vercel | [v0.dev](https://v0.dev) |
 
 ---
