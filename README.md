@@ -186,6 +186,8 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 | **Lucide** | Iconos modernos y limpios | [lucide.dev](https://lucide.dev) |
 | **Lucide Animated** | Iconos animados para React, basados en Lucide y Motion | [lucide-animated.com](https://lucide-animated.com/) |
 | **Phosphor Icons** | Iconos flexibles y consistentes | [phosphoricons.com](https://phosphoricons.com) |
+| **Theme Toggles** | Iconos animados de sol/luna para el botón de cambio entre modo claro y oscuro, con código listo para copiar | [github.com/AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles) |
+| **useAnimations** | Iconos animados gratuitos para React, shadcn/ui y Lottie, con interacciones al pasar el ratón, hacer clic o en bucle | [useanimations.com](https://useanimations.com) |
 
 ### Ilustraciones
 
