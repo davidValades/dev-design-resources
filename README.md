@@ -212,9 +212,13 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
+| **AnimBits** | Componentes de animación para React, con toggle de tema día/noche de transición circular o deslizante ajustable en velocidad y desenfoque | [animbits.dev](https://www.animbits.dev/) |
 | **LottieFiles** | Animaciones JSON ligeras para web y móvil | [lottiefiles.com](https://lottiefiles.com) |
 | **LottieFiles Icon Animations** | Colección de iconos animados gratuitos en formatos Lottie, dotLottie, GIF, SVG animado y MP4 | [lottiefiles.com/free-animations/icon](https://lottiefiles.com/free-animations/icon) |
+| **Skiper UI (Theme Toggle)** | Botón de cambio claro/oscuro con transición de página completa: variantes circle, blur, rectangle, polygon y GIF, con panel de ajustes | [skiper-ui.com](https://skiper-ui.com/v1/skiper26) |
 | **SVG Loaders (MageCDN)** | Spinners y loaders animados en SVG | [magecdn.com/tools/svg-loaders](https://magecdn.com/tools/svg-loaders) |
+| **Theme Swipe Lab** | Banco de pruebas con 10 transiciones de página para modo claro/oscuro basadas en View Transitions API, con el CSS para copiar | [theme-swipe-lab.ss10.dev](https://theme-swipe-lab.ss10.dev/) |
+| **Theme Toggle Effect** | Demos de transiciones de tema con View Transitions API (máscaras SVG, clip-path, GIFs) con todo el CSS para copiar | [theme-toggle.rdsx.dev](https://theme-toggle.rdsx.dev) |
 
 ---
 
