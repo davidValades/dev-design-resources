@@ -29,6 +29,7 @@ Recursos para aprender conceptos de desarrollo de forma visual, práctica o más
 
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
+| **Byte-Sized Algorithms** | Curso gratuito en español con 86 lecciones de algoritmos: estructuras de datos, grafos y retos | [byte-sized-algorithms.vercel.app](https://byte-sized-algorithms.vercel.app) |
 | **Can I Use** | Compatibilidad de features de HTML, CSS y JavaScript por navegador | [caniuse.com](https://caniuse.com) |
 | **Codewars** | Ejercicios de programación (katas) por niveles en decenas de lenguajes | [codewars.com](https://www.codewars.com) |
 | **Designed to Scale** | Curso interactivo de System Design con lecciones visuales: escalado, datos y almacenamiento, comunicación, fiabilidad, arquitectura, seguridad y estimaciones tipo napkin math | [designed-to-scale.vercel.app](https://designed-to-scale.vercel.app) |
