@@ -214,12 +214,30 @@ Generadores de paletas, iconos, fuentes y recursos gráficos.
 | Recurso | Descripción | Enlace |
 |:---|:---|:---|
 | **AnimBits** | Componentes de animación para React, con toggle de tema día/noche de transición circular o deslizante ajustable en velocidad y desenfoque | [animbits.dev](https://www.animbits.dev/) |
+| **Anime.js** | Motor de animación en JavaScript | [github.com/juliangarnier/anime](https://github.com/juliangarnier/anime) |
+| **Babylon.js** | Motor de renderizado y juegos 3D en JavaScript | [github.com/BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) |
+| **Blender** | Suite 3D abierta para modelado, animación y render (espejo oficial) | [github.com/blender/blender](https://github.com/blender/blender) |
+| **gifenc** | Codificador de GIF rápido en JavaScript | [github.com/mattdesl/gifenc](https://github.com/mattdesl/gifenc) |
+| **Godot Engine** | Motor de videojuegos 2D y 3D multiplataforma | [github.com/godotengine/godot](https://github.com/godotengine/godot) |
+| **Konva** | Framework de canvas HTML5 para gráficos interactivos, editores y pizarras, con eventos, transformaciones y exportación | [github.com/konvajs/konva](https://github.com/konvajs/konva) |
+| **Lottie Web** | Renderiza animaciones de After Effects en web, Android, iOS y React Native | [github.com/airbnb/lottie-web](https://github.com/airbnb/lottie-web) |
 | **LottieFiles** | Animaciones JSON ligeras para web y móvil | [lottiefiles.com](https://lottiefiles.com) |
 | **LottieFiles Icon Animations** | Colección de iconos animados gratuitos en formatos Lottie, dotLottie, GIF, SVG animado y MP4 | [lottiefiles.com/free-animations/icon](https://lottiefiles.com/free-animations/icon) |
+| **Lume** | 3D acelerado por GPU con elementos HTML, por ejemplo `<lume-box>` | [github.com/lume/lume](https://github.com/lume/lume) |
+| **Manim** | Framework de Python mantenido por la comunidad para animaciones matemáticas | [github.com/ManimCommunity/manim](https://github.com/ManimCommunity/manim) |
+| **Motion** | Librería de animación moderna para React y JavaScript | [github.com/motiondivision/motion](https://github.com/motiondivision/motion) |
+| **Motion Canvas** | Animaciones vectoriales y explicaciones visuales programadas con TypeScript | [github.com/motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) |
+| **Ola** | Librería ligera para animar y suavizar la interpolación de números | [github.com/franciscop/ola](https://github.com/franciscop/ola) |
+| **Proton** | Librería de animación de partículas en JavaScript | [github.com/drawcall/Proton](https://github.com/drawcall/Proton) |
+| **Remotion Skills** | Skills para que agentes de IA creen vídeo con código en Remotion | [github.com/remotion-dev/skills](https://github.com/remotion-dev/skills) |
+| **Shifty** | Motor de animación en TypeScript centrado en velocidad | [github.com/jeremyckahn/shifty](https://github.com/jeremyckahn/shifty) |
 | **Skiper UI (Theme Toggle)** | Botón de cambio claro/oscuro con transición de página completa: variantes circle, blur, rectangle, polygon y GIF, con panel de ajustes | [skiper-ui.com](https://skiper-ui.com/v1/skiper26) |
 | **SVG Loaders (MageCDN)** | Spinners y loaders animados en SVG | [magecdn.com/tools/svg-loaders](https://magecdn.com/tools/svg-loaders) |
 | **Theme Swipe Lab** | Banco de pruebas con 10 transiciones de página para modo claro/oscuro basadas en View Transitions API, con el CSS para copiar | [theme-swipe-lab.ss10.dev](https://theme-swipe-lab.ss10.dev/) |
 | **Theme Toggle Effect** | Demos de transiciones de tema con View Transitions API (máscaras SVG, clip-path, GIFs) con todo el CSS para copiar | [theme-toggle.rdsx.dev](https://theme-toggle.rdsx.dev) |
+| **three.js** | Librería 3D para JavaScript | [github.com/mrdoob/three.js](https://github.com/mrdoob/three.js) |
+| **TweenJS** | Librería de tweening y animación en JavaScript, parte de CreateJS | [github.com/CreateJS/TweenJS](https://github.com/CreateJS/TweenJS) |
+| **Two.js** | API de dibujo 2D para web que funciona con varios renderizadores (Canvas, SVG, WebGL) | [github.com/jonobr1/two.js](https://github.com/jonobr1/two.js) |
 
 ---
 
@@ -297,3 +315,4 @@ Herramientas de IA aplicadas al desarrollo de videojuegos.
 ---
 
 > **Nota:** Esta lista está viva y en constante actualización a medida que descubro nuevas herramientas.
+
